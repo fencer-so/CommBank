@@ -1,0 +1,6 @@
+[submodule "web"]
+	path = web
+	url = https://github.com/matt-ramotar/bank-web
+[submodule "server"]
+	path = server
+	url = https://github.com/matt-ramotar/bank-server
